@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Inference for Michaelis--Menten enzyme kinetics
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Wasiur R.
+    family-names: KhudaBukhsh
+    email: wasiur.khudabukhsh@nottingham.ac.uk
+    affiliation: University of Nottingham
+    orcid: 'https://orcid.org/0000-0003-1803-0470'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/wasiur/Inference-for-Michaelis--Menten-enzyme-kinetics.git
+repository-code: >-
+  https://github.com/wasiur/Inference-for-Michaelis--Menten-enzyme-kinetics.git
+url: >-
+  https://github.com/wasiur/Inference-for-Michaelis--Menten-enzyme-kinetics.git
